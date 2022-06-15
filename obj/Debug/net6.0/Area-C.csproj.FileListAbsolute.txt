@@ -1,0 +1,15 @@
+C:\Users\adley\U.creativa-programacion\Area-C\bin\Debug\net6.0\Area-C.exe
+C:\Users\adley\U.creativa-programacion\Area-C\bin\Debug\net6.0\Area-C.deps.json
+C:\Users\adley\U.creativa-programacion\Area-C\bin\Debug\net6.0\Area-C.runtimeconfig.json
+C:\Users\adley\U.creativa-programacion\Area-C\bin\Debug\net6.0\Area-C.dll
+C:\Users\adley\U.creativa-programacion\Area-C\bin\Debug\net6.0\Area-C.pdb
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\Area-C.csproj.AssemblyReference.cache
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\Area-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\Area-C.AssemblyInfoInputs.cache
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\Area-C.AssemblyInfo.cs
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\Area-C.csproj.CoreCompileInputs.cache
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\Area-C.dll
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\refint\Area-C.dll
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\Area-C.pdb
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\Area-C.genruntimeconfig.cache
+C:\Users\adley\U.creativa-programacion\Area-C\obj\Debug\net6.0\ref\Area-C.dll
